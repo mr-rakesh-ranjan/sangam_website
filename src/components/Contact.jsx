@@ -6,7 +6,7 @@ const Contact = () => {
     {
       icon: MapPin,
       title: 'Address',
-      content: 'Kartahan, Vaishali, Bihar',
+      content: 'Bhagwati Chowk, Kartahan, Vaishali, Bihar',
       color: 'text-red-600',
       bg: 'bg-red-50'
     },
@@ -27,7 +27,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email',
-      content: 'sangampanpalace@gmail.com',
+      content: 'official4sangam@gmail.com',
       color: 'text-purple-600',
       bg: 'bg-purple-50'
     }
@@ -132,7 +132,7 @@ const Contact = () => {
                 Call Now
               </a>
               <a
-                href="https://maps.google.com/?q=Kartahan,Vaishali,Bihar"
+                href="https://maps.app.goo.gl/LwFkyJMWTiDqtY42A"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-transparent border-2 border-white text-white font-semibold px-8 py-3 rounded-lg hover:bg-white hover:text-primary-600 transition-colors"
